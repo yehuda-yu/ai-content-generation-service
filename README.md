@@ -24,7 +24,7 @@ The service is built for easy integration and suitable for serverless deployment
 
 ## Setup & Running Locally
 
-1.  **Clone:** `git clone <your-repository-url>` & `cd <repository-directory-name>`
+1.  **Clone:** `git clone <[your-repository-url](https://github.com/yehuda-yu/ai-content-generation-service)>` & `cd <repository-directory-name>`
 2.  **Environment:**
     *   `conda create --name ai_content_env python=3.11`
     *   `conda activate ai_content_env`
