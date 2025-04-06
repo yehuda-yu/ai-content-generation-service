@@ -1,0 +1,19 @@
+# Anaconda/Conda environments (if created locally, though often managed centrally)
+# It's generally better *not* to create conda envs inside the project dir
+# but if you do, add the env name here, e.g. /ai_content_env/
+# However, conda usually installs envs elsewhere.
+
+# Python cache/compiled files
+*.pyc
+__pycache__/
+
+# Environment variables file (IMPORTANT!)
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
